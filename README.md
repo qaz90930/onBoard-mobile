@@ -1,4 +1,5 @@
 # onBoard Powered - Mobile Platform Mock-Up
+*Welcome to follow us on socials*
 
 ## About onBoard Powered
 
