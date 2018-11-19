@@ -22,6 +22,10 @@ Having an open engine API that can leverage other game controls and stats for no
 ## Example
 <img src="onBoardGame/Supporting Files/example.gif" width="180">
 
+## Contact
+
+[onBoard Powered Email](hello@onboardpowered.com)
+
 ## Reference
 
 1. [Facebook Login SDK](https://developers.facebook.com/docs/facebook-login/ios/)
