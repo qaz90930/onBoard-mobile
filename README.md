@@ -7,10 +7,12 @@
 
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
-[1]: https://twitter.com/OnboardP
-[2]: https://fb.me/OnboardPowered
+
+[1.1]: http://i.imgur.com/tXSoThF.png 
+[2.1]: http://i.imgur.com/P3YfQoD.png 
+
+[1]: http://www.twitter.com/carlsednaoui
+[2]: http://www.facebook.com/sednaoui
 
 Onboard is a platform designed to enhance the experience for each person and group of friends through collaboration when playing a board game. Promoting and featuring social events and meet in person to enjoy time with other humans face to face.
 From keeping control of their game duration, stats of times played and average of win/loses to each player/game. Organizing matches and tournaments.
