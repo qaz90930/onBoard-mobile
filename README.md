@@ -18,3 +18,6 @@ Onboard is a platform designed to enhance the experience for each person and gro
 From keeping control of their game duration, stats of times played and average of win/loses to each player/game. Organizing matches and tournaments.
 Adding extra features to certain games that are exclusive to our platform.
 Having an open engine API that can leverage other game controls and stats for non board games like video games and sport games.
+
+## Example
+<img src="onBoardGame/Supporting Files/example.gif" width="100">
