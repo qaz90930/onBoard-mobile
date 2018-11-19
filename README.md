@@ -11,7 +11,7 @@
 
 [1.1]: http://i.imgur.com/tXSoThF.png 
 [2.1]: http://i.imgur.com/P3YfQoD.png 
-[3.1]: https://cdn3.iconfinder.com/data/icons/transparent-on-dark-grey/500/icon-04-512.png | width=50
+[3.1]: (https://cdn3.iconfinder.com/data/icons/transparent-on-dark-grey/500/icon-04-512.png | width=50)
 
 [1]: https://twitter.com/OnboardP
 [2]: https://fb.me/OnboardPowered
