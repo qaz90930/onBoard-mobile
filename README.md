@@ -1,5 +1,5 @@
 # onBoard Powered - Mobile Platform Mock-Up Test
-*Our team decided to move on to another scope, so this project has been suspended*
+*Our team decided to move on to another scope, so this project has been suspended, and became my portfolio*
 
 ## About onBoard Powered
 
