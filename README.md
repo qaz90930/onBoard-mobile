@@ -1,16 +1,14 @@
 # onBoard Powered - Mobile Platform Mock-Up Test
-* Our team decided to move on to another scope, so this project has been suspended
+* Our team decided to move on to another scope, so this project has been suspended *
 
 ## About onBoard Powered
 
 ### [OnBoard Powered](https://onboardpowered.com/?fbclid=IwAR25B6sN0hImPsElDCeBFAtnGguQ3aTjGG3HS5D_xMaV7zwv8uLYHrrKu0w)
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-
-
-<!-- links to your social media accounts -->
-<!-- update these accordingly -->
-
 [1]: https://twitter.com/OnboardP
 [2]: https://fb.me/OnboardPowered
 
