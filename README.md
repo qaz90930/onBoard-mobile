@@ -20,4 +20,9 @@ Adding extra features to certain games that are exclusive to our platform.
 Having an open engine API that can leverage other game controls and stats for non board games like video games and sport games.
 
 ## Example
-<img src="onBoardGame/Supporting Files/example.gif" width="100">
+<img src="onBoardGame/Supporting Files/example.gif" width="180">
+
+## Reference
+
+1. [Facebook Login SDK](https://developers.facebook.com/docs/facebook-login/ios/)
+2. [SideMenu](https://github.com/kukushi/SideMenu/blob/master/README.md)
