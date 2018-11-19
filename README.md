@@ -15,7 +15,7 @@
 
 [1]: https://twitter.com/OnboardP
 [2]: https://fb.me/OnboardPowered
-[3]: https://www.instagram.com/onboardp
+[3]: https://www.instagram.com/onboardp | width=50
 
 Onboard is a platform designed to enhance the experience for each person and group of friends through collaboration when playing a board game. Promoting and featuring social events and meet in person to enjoy time with other humans face to face.
 From keeping control of their game duration, stats of times played and average of win/loses to each player/game. Organizing matches and tournaments.
